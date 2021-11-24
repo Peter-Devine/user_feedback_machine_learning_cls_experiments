@@ -1,0 +1,1 @@
+{"guzman_2015": {"test_loss": 0.5586493015289307, "test_accuracy": 0.9042189281641961, "test_f1": 0.4084507042253521, "test_precision": 0.453125, "test_recall": 0.3717948717948718, "test_roc_auc": 0.6898527004909984, "test_runtime": 2.0824, "test_samples_per_second": 421.153, "test_steps_per_second": 6.723}}

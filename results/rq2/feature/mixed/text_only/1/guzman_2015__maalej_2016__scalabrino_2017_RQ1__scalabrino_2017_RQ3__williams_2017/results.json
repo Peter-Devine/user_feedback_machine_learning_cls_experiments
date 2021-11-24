@@ -1,0 +1,1 @@
+{"tizard_2019": {"test_loss": 0.2806587815284729, "test_accuracy": 0.8884297520661157, "test_f1": 0.21359223300970875, "test_precision": 0.14473684210526316, "test_recall": 0.4074074074074074, "test_roc_auc": 0.672548084565252, "test_runtime": 0.7973, "test_samples_per_second": 910.543, "test_steps_per_second": 15.05}}

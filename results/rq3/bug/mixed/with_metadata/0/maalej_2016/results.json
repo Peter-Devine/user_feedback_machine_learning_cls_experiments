@@ -1,0 +1,1 @@
+{"maalej_2016": {"test_loss": 0.21638084948062897, "test_accuracy": 0.9236111111111112, "test_f1": 0.4210526315789473, "test_precision": 0.8, "test_recall": 0.2857142857142857, "test_roc_auc": 0.8847527472527473, "test_runtime": 0.5787, "test_samples_per_second": 497.686, "test_steps_per_second": 8.64}}

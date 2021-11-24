@@ -1,0 +1,1 @@
+{"scalabrino_2017_RQ3": {"test_loss": 0.7579500675201416, "test_accuracy": 0.6901408450704225, "test_f1": 0.7317073170731707, "test_precision": 0.8695652173913043, "test_recall": 0.631578947368421, "test_roc_auc": 0.8212765957446809, "test_runtime": 0.2586, "test_samples_per_second": 549.136, "test_steps_per_second": 11.601}}

@@ -1,0 +1,1 @@
+{"williams_2017": {"test_loss": 0.667314350605011, "test_accuracy": 0.782608695652174, "test_f1": 0.587378640776699, "test_precision": 0.4959016393442623, "test_recall": 0.7202380952380952, "test_roc_auc": 0.8309291143167364, "test_runtime": 0.6251, "test_samples_per_second": 1250.968, "test_steps_per_second": 20.796}}

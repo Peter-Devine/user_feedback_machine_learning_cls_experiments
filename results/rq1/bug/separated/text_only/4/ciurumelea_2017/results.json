@@ -1,0 +1,1 @@
+{"ciurumelea_2017": {"test_loss": 0.3801662027835846, "test_accuracy": 0.8392070484581498, "test_f1": 0.5521472392638038, "test_precision": 0.4838709677419355, "test_recall": 0.6428571428571429, "test_roc_auc": 0.8499627976190476, "test_runtime": 0.5895, "test_samples_per_second": 770.129, "test_steps_per_second": 13.571}}
